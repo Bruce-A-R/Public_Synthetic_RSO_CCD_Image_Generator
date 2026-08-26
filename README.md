@@ -20,7 +20,7 @@ python -m pip install -r "requirements.txt"
 
 Pass TLE files and observing information to generate images of other objects, other epochs, images from other observing locations, images with other telescopes or cameras, ect. Arguments that can be passed are listed in the **Arguments** section of this README. 
 
-The script will as a defult generate one set of TRACKING mode image data adnd one set of LEAPFROG mode image data (one set = one .fits file, one .png file, and one labelme .json file). A mode can be specified while running the script to produce only images of that mode. 
+The script will as a default generate one set of TRACKING mode image data and one set of LEAPFROG mode image data (one set = one .fits file, one .png file, and one labelme .json file). A mode can be specified while running the script to produce only images of that mode. Here "TRACKING" refers to satellite-rate tracking images while "LEAPFROG" refers to sidereal-rate tracking images. These terms are used internally at S-TREC interchangeably. 
 
 **Example Code:**
 
