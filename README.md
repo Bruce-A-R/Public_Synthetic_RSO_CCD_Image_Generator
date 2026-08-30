@@ -1,5 +1,7 @@
 # Public_Synthetic_RSO_CCD_Image_Generator
-This repository contains software originally developed for the Geo-Informatics and Space Technology Agency of Thailand (GISTDA) within an internal repository. Scripts, example files, and resources *that are able to be copied* are copied here for reporting purposes.
+This repository contains software originally developed for the Geo-Informatics and Space Technology Agency of Thailand (GISTDA) within an internal repository. Scripts, example files, and resources *that are able to or allowed by GISTDA to be copied* are copied here for reporting purposes.
+
+This repo was created in August, 2026 but will be updated with any continuing work on the image generator or related code, as the project in ongoing to address needed additional configurations for image noise. 
 
 # garnet_image_simulation
 
